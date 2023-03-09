@@ -7,3 +7,5 @@ BoxE = BoxA * BoxB;
 BoxF = BoxA / BoxB;
 Console.WriteLine("BoxC contains: " + BoxC);
 Console.WriteLine("BoxD contains: " + BoxD);
+Console.WriteLine("BoxE contains: " + BoxE);
+Console.WriteLine("BoxF contains: " + BoxF);
