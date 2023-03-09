@@ -1,0 +1,15 @@
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.csproj.AssemblyReference.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.AssemblyInfoInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.AssemblyInfo.cs
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.csproj.CoreCompileInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\bin\Debug\net6.0\CSharpFirstProj.exe
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\bin\Debug\net6.0\CSharpFirstProj.deps.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\bin\Debug\net6.0\CSharpFirstProj.runtimeconfig.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\bin\Debug\net6.0\CSharpFirstProj.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\bin\Debug\net6.0\CSharpFirstProj.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\refint\CSharpFirstProj.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\CSharpFirstProj.genruntimeconfig.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\FirstLesson\CSharpFirstProj\CSharpFirstProj\obj\Debug\net6.0\ref\CSharpFirstProj.dll
