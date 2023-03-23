@@ -1,0 +1,15 @@
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\bin\Debug\net6.0\CsharpHomework2.exe
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\bin\Debug\net6.0\CsharpHomework2.deps.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\bin\Debug\net6.0\CsharpHomework2.runtimeconfig.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\bin\Debug\net6.0\CsharpHomework2.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\bin\Debug\net6.0\CsharpHomework2.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.csproj.AssemblyReference.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.AssemblyInfoInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.AssemblyInfo.cs
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.csproj.CoreCompileInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\refint\CsharpHomework2.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\CsharpHomework2.genruntimeconfig.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\SecondLesson\CsharpHomework2\CsharpHomework2\obj\Debug\net6.0\ref\CsharpHomework2.dll
