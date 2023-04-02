@@ -1,0 +1,15 @@
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\bin\Debug\net6.0\CSharpHomework3.exe
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\bin\Debug\net6.0\CSharpHomework3.deps.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\bin\Debug\net6.0\CSharpHomework3.runtimeconfig.json
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\bin\Debug\net6.0\CSharpHomework3.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\bin\Debug\net6.0\CSharpHomework3.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.csproj.AssemblyReference.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.AssemblyInfoInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.AssemblyInfo.cs
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.csproj.CoreCompileInputs.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\refint\CSharpHomework3.dll
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.pdb
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\CSharpHomework3.genruntimeconfig.cache
+C:\Users\gidinu\OneDrive - ENDAVA\Documents\GitHub\CSharpZeroToHero\ThirdLesson\CSharpHomework3\CSharpHomework3\obj\Debug\net6.0\ref\CSharpHomework3.dll
