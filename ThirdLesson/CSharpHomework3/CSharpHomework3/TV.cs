@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace CSharpHomework3
+﻿namespace CSharpHomework3
 {
     internal class TV
     {
@@ -26,19 +20,15 @@ namespace CSharpHomework3
 
         public void OpenTV()
         {
-            int Volume;
-            int Channel;
-            Volume = volume;
-            Channel = channel;
-            if (Channel == 0 || Volume == 0)
+            if (channel == 0 || volume == 0)
             {
                 OpenTVDefault();
             }
             else
             {
                 Console.WriteLine("TV started with following settings!:");
-                Console.WriteLine("Channel:" + Channel);
-                Console.WriteLine("Volume:" + Volume);
+                Console.WriteLine("Channel:" + channel);
+                Console.WriteLine("Volume:" + volume);
             }
         }
 

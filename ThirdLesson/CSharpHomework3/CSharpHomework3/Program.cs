@@ -24,7 +24,7 @@ internal class Program
         Samsung.ChangeChannel(30);
         Samsung.CloseTV();
         Samsung.OpenTV();
-
-
+        Samsung.ChangeVolumeDown();
+        Samsung.ChangeChannelUp();
     }
 }
